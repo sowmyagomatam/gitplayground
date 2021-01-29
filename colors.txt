@@ -1,2 +1,2 @@
-red_feature_branch
-green_main
+red
+yellow
