@@ -5,3 +5,5 @@ green
 red
 cyan
 green
+gold
+blue
