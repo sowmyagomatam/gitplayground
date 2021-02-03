@@ -1,5 +1,2 @@
 red
 yellow
-blue
-white
-gold
