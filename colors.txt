@@ -3,3 +3,5 @@ white
 yellow
 green
 red
+cyan
+green
