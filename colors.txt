@@ -6,3 +6,4 @@ red
 cyan
 green
 main1
+main2
