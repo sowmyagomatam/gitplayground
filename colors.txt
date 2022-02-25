@@ -10,3 +10,4 @@ main2
 featurebranch_1
 featurebranch_2
 newfeature1
+newfeature2
