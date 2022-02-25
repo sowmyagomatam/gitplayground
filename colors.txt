@@ -11,3 +11,5 @@ featurebranch_1
 featurebranch_2
 mainafternewfeature1
 mainafternewfeature2
+newfeature1
+newfeature2
